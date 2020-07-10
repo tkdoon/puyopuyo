@@ -1,0 +1,12 @@
+/**/
+
+body {
+    -webkit-user-select: none; 
+}
+#stage{
+    background-size: contain;
+    position:relative;
+    margin: 0 auto;
+    overflow: hidden;
+    background: url(../img/puyo_3bg.png);
+    background-blend-mode:lighten;}
